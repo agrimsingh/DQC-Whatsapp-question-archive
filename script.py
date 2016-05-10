@@ -30,10 +30,7 @@ for line in f:
         templine += line
 doThingsToCompletedLine(templine)
 print "Done"
-# print fcount
-print today
-print type(today)
-print type(pattern)
+
 
 # string2 = "02/04/2016, 22:32 - ‪+91 97118 46794‬: Last name can be derived from a famously terrible food item made by stuffing meat into a sheep's stomach"
 #string = "02/04/2016, 22:36 - ‪+91 97118 46794‬: Who was the oldest of Louis the Pious three children, who inherited the middle kingdom after his father's death in 843? One of France's regions is named after him."
